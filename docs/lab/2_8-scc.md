@@ -17,16 +17,16 @@ This streamlined approach to managing and analyzing your scan data enables you t
 
 ![alt text](../images/ssc-dashboard.png)
 
-### Controls and Control libraries 
+### Controls and Control libraries <br>
 **Controls**
 A technical, administrative, or physical safeguard that is designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
 
-**Control libraries**
+**Control libraries** <br>
 A collection of predefined or custom controls. Control libraries show all the controls in your accounts that are available to be evaluated. A library is helpful for organizing and versioning of your controls. A library is structured as follows.
 
 ![alt text](../images/scc-control.png)
 
-**Profiles**
+**Profiles** <br>
 A profile is a group of controls that are related to a specific compliance objective.
 
 Although very similar in structure to a control library, a profile can be attached to a set of resources and be evaluated. When you create the attachment, you can set the parameters that define the way the evaluation is done.

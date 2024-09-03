@@ -18,7 +18,7 @@
 
 5. Scroll down till you find the **Extension** section, locate **Search** and select **Open (A)**
 
-![alt text](../images/2.5.5.png)
+![alt text](../images/3.2.5.png)
 
 6. For the environment select **Draft (A)** and then click **Confirm (B)**
 
