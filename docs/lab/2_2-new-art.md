@@ -1,4 +1,4 @@
-# Upload New Documents
+# Upload New Artifacts
 
 1. Expand the **Navigation menu (A)** and type in the **watsonx assistant name (B)** and select the **instance (C)**
 

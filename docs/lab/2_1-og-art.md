@@ -1,4 +1,4 @@
-# Chat with Original Documents
+# Chat with Original Artifacts
 
 Welcome to the second half of the lab. 
 
