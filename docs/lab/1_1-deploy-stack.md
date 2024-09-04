@@ -41,12 +41,16 @@ ADD SCREENSHOT
 
     d. Make sure the environment corresponds to your group number <br>
     ADD SCREENSHOT
+    
 8. Click **Add (A)** <br>
 ADD SCREENSHOT
 
 9. Ready to validate? 
 
-10. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
+10. View the already deployed project. Select Deployed Details on some of the sections (Security Compliance Center v1 and Sample RAG App Configuration v1) so participants can see resources were created. <br>
+ADD SCREENSHOT
+
+11. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
 ![alt text](<../images/2.4.5 part 1.png>)
 ![alt text](<../images/2.4.5 part 2.png>)
 
