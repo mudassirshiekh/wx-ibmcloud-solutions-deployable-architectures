@@ -17,7 +17,7 @@ Retrieval augmented generation (RAG) is an AI framework for improving the qualit
 ![alt text](../images/2.4.3.png)
 
 4. Click **Create (A)**
-ADD SCREENSHOT
+![alt text](../images/1.1.4.png)
 
 5. You will be redirected to the Catalog, make sure you are on the **Community registry (A).**
 ![alt text](../images/2.1.2.png)
@@ -28,22 +28,19 @@ ADD SCREENSHOT
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
 7. Click **Add to Project (A)** <br>
-ADD SCREENSHOT
+![alt text](../images/1.1.7.png)
 
-    a. Make sure you are on **add to existing project (A)** <br>
-    ADD SCREENSHOT
+8. Configure the DA <br>
+    a. Make sure you are on **Add to existing (A)** <br>
 
-    b. Make sure the **selected project matches your group number. (A)** <br>
-    ADD SCREENSHOT
+    b. Make sure the **Select a project** matches your group number. **(B)**
 
-    c. Change the Configuration name to MY-lab-#, where the # is replaced with your group number. For example: MY-lab-00 <br>
-    ADD SCREENSHOT
-
-    d. Make sure the environment corresponds to your group number <br>
-    ADD SCREENSHOT
+    c. Change the Configuration name to **MY-lab-# (C)**, where the # is replaced with your group number. For example: MY-lab-00
+  
+    d. Make sure the **environment (D)** corresponds to your group number <br>
     
-8. Click **Add (A)** <br>
-ADD SCREENSHOT
+    e. Click **Add (E)** <br>
+![alt text](../images/1.1.8.a-e.png)
 
 9. Ready to validate? 
 
