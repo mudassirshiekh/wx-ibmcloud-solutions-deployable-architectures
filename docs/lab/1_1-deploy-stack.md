@@ -8,22 +8,22 @@ ______
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
-![alt text](../images/2.4.1.png)
+![alt text](../images/1.1.1.png)
 
 2. Select the **deployed project (A)** that corresponds to your group number. 
-![alt text](../images/2.4.2.png)
+![alt text](../images/1.1.2.png)
 
 3. Switch to the **Configurations tab (A)**
-![alt text](../images/2.4.3.png)
+![alt text](../images/1.1.3.png)
 
 4. Click **Create (A)**
 ![alt text](../images/1.1.4.png)
 
 5. You will be redirected to the Catalog, make sure you are on the **Community registry (A).**
-![alt text](../images/2.1.2.png)
+![alt text](../images/1.1.5.png)
 
 6. Find and select the **Retrieval Augmented Generation Pattern** <br>
-![alt text](../images/1-select-RAG.png)
+![alt text](../images/1.1.6.png)
 
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
@@ -48,8 +48,8 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 ADD SCREENSHOT
 
 11. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
-![alt text](<../images/2.4.5 part 1.png>)
-![alt text](<../images/2.4.5 part 2.png>)
+![alt text](<../images/1.1.11-a.png>)
+![alt text](<../images/1.1.11-b.png>)
 
 ## Deployment Architecture Overview
 
