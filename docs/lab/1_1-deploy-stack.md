@@ -47,7 +47,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 10. View the already deployed project.
 
     a. Find the Security Compliance Center v1 and select **Deployed details (A)** 
-        ![alt text](../images/1.1.10-a.png)
+    ![alt text](../images/1.1.10-a.png)
 
     b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources. 
     ![alt text](../images/1.1.10-b.png)
