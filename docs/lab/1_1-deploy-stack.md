@@ -44,7 +44,18 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
 9. Ready to validate? 
 
-10. View the already deployed project. Select Deployed Details on some of the sections (Security Compliance Center v1 and Sample RAG App Configuration v1) so participants can see resources were created. <br> ... ADD SCREENSHOT
+10. View the already deployed project.
+
+    a. Find the Security Compliance Center v1 and select **Deployed details (A)** 
+        ![alt text](../images/1.1.10-a.png)
+
+    b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources. 
+    ![alt text](../images/1.1.10-b.png)
+
+    c. Here is a list of created resources by that specific section of the DA. 
+    ![alt text](../images/1.1.10-c.png)
+
+    Repeat the same steps for the **Sample RAG App Configurations** section of the DA. 
 
 11. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
 ![alt text](<../images/1.1.11-a.png>)
