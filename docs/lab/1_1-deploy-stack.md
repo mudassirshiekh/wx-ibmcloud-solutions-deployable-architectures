@@ -1,14 +1,14 @@
 # Deploy the Stack 
 
-In the first half of the lab, participants will examine the various cloud resources that have been deployed by the DA. This will include identifying and understanding the components and services that make up the deployed architecture, providing insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
-
-Note: Discuss projects
+In the first half of the lab, participants will first deploy their own deployable architecture (DA) within IBM Cloud. After the deployment, they will examine the various cloud resources that have been provisioned by a previously deployed DA, gaining an understanding of the components and services that make up the deployed architecture. This will provide valuable insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
 ______
 
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 ![alt text](../images/1.1.1.png)
+
+    **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
 
 2. Select the **deployed project (A)** that corresponds to your group number. 
 ![alt text](../images/1.1.2.png)
