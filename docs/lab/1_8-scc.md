@@ -17,7 +17,7 @@ This streamlined approach to managing and analyzing your scan data enables you t
 
 ![alt text](../images/1.8.1-a.png)
 
-### Controls and Control libraries <br>
+### Controls and Control libraries <br> 
 **Controls**
 A technical, administrative, or physical safeguard that is designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
 
