@@ -6,6 +6,7 @@ IBM Watson Discovery digests, indexes, and stores the bank's content from its ow
 ![alt text](../images/1.6.png)
 
 The linked repository offers several customization options for adapting the RAG application. <br>
+
 **Update UI:** this can be modified to suit a different use case, providing a tailored experience. 
 
 **Upload new documents:** The documents can be replaced to reflect specific information to new use case. 
