@@ -10,6 +10,7 @@ Retrieval augmented generation (RAG) is an AI framework for improving the qualit
 
     **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
 
+
 2. Select the **deployed project (A)** that corresponds to your group number. 
 ![alt text](../images/1.1.2.png)
 

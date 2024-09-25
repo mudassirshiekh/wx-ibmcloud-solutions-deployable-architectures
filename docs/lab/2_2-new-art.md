@@ -29,11 +29,12 @@
 ![alt text](../images/2.2.7.png)
 
 8. On the **Settings tab (A)** select ***Upload documents to a new index in your Elasticsearch index (B)***. Click **Save (C)**.
-ADD SCREENSHOT
+
+![alt text](../images/2.2.8.png)
 
 9. Select the **Documents tab (A)** and the click **Upload (B)** to upload the new PDFs.  
 
-![alt text](../images/2.2.8.png)
+![alt text](../images/2.2.9.png)
 
 10. Once the new documents have been uploaded navigate back to the chatbot tab and ask the questions again and observe the improvement in answers. 
 * What are the different life insurance policies?
