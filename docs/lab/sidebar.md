@@ -1,5 +1,6 @@
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
+- 0️⃣ Deploy the Stack 
 - 1️⃣ Understand Deployed Resources
     * [1.1 Deploy the Stack](1_1-deploy-stack.md)
     * [1.2 Deployment Process](1_2-deployment-process.md)
@@ -17,4 +18,3 @@
 - [Lab Sign in](https://ibm.biz/txc-XXX-invite)
 - [Console](https://cloud.ibm.com/)
 - [Documentation](https://cloud.ibm.com/docs/)
-
