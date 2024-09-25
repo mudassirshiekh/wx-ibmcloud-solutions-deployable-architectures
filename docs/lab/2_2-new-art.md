@@ -39,4 +39,4 @@
 10. Once the new documents have been uploaded navigate back to the chatbot tab and ask the questions again and observe the improvement in answers. 
 * What are the different life insurance policies?
 * When should I buy life insurance? 
-* What does life insurance cover?
+* What does life insurance cover
