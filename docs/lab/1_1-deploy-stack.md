@@ -42,7 +42,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     e. Click **Add (E)** <br>
 ![alt text](../images/1.1.8.a-e.png)
 
-9. You will now need to update the prefix for your stack. Scroll down until you find the required section and select it. You will need to update the prefix section to MY-lab-##. Click the save button. You will now click "Validate". Once the popup window appears you can click out of it. Your project will now start to build. 
+9. You will now need to update the prefix for your stack. Scroll down until you find the required section and select it. You will need to update the prefix section to MY-lab-##. Click the save button. You will now click "Validate". Once the popup window appears you can click out of it. Your project will now start to build. ADD SCREENSHOTS
 
 10. View the already deployed project.
 

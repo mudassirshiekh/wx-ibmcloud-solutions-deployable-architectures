@@ -28,11 +28,11 @@
 
 ![alt text](../images/2.2.7.png)
 
-8. Select the **Documents tab (A)** and the click **Upload (B)** to upload the new PDFs
+8. Select the **Documents tab (A)** and the click **Upload (B)** to upload the new PDFs. ADD STEP BEFORE THIS TO ENABLE DOCUMENTS TAB. 
 
 ![alt text](../images/2.2.8.png)
 
-9. Once the new documents have been uploaded navigate back to the chatbot and ask the questions again and observe the improvement in answers. 
+9. Once the new documents have been uploaded navigate back to the chatbot tab and ask the questions again and observe the improvement in answers. 
 * What are the different life insurance policies?
 * When should I buy life insurance? 
 * What does life insurance cover?
