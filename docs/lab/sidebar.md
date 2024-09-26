@@ -8,9 +8,9 @@
     * [1.2 Toolchains](1_2-toolchains.md)
     * [1.3 Code Engine](1_3-code-engine.md)
     * [1.4 Launch Sample Application](1_4-launch-app.md)
-    * [1.6 Gen AI Application Repository](1_6-repo.md)
-    * [1.7 PDF Artifacts](1_7-pdfs.md)
-    * [1.8 Security and Compliance Center (SCC)](1_8-scc.md)
+    * [1.5 Gen AI Application Repository](1_5-repo.md)
+    * [1.6 PDF Artifacts](1_6-pdfs.md)
+    * [1.7 Security and Compliance Center (SCC)](1_7-scc.md)
 - 2️⃣ Ingest New Documents
     * [2.1 Chat with Original Artifacts](2_1-og-art.md)
     * [2.2 Upload New Artifacts](2_2-new-art.md) 
