@@ -3,6 +3,8 @@ Retrieval Augmented Generation (RAG) is like having a smart assistant that not o
 
 IBM Watson Discovery digests, indexes, and stores the bank's content from its own FAQ/blog knowledge base. Upon receiving inquiries from the end user, the watsonx assistant generated chatbot employs an AI-powered natural language search query, known as semantic search, to extract relevant content from the bank's knowledge base. Finally, a foundation model in watsonx.ai is inferred using prompts to provide a summary response based on the obtained text. 
 
+---
+
 ![alt text](../images/1.5.png)
 
 The linked repository offers several customization options for adapting the RAG application. <br>

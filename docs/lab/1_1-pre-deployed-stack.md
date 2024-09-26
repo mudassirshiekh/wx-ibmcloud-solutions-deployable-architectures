@@ -2,6 +2,8 @@
 
 In this section we will be viewing the already deployed stack. We will take a closer look at a couple different layers of the stack to gain a better understanding of what is being created at that layer of the DA. 
 
+---
+
 1. Find the project that corresponds to your group.
 
     a. Find the **Security Compliance Center v1** and select **Deployed details (A)**. You are able to expand the colum size so you are able to see the full name of the components. FIX THE SCREENSHOT 
