@@ -37,7 +37,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
     b. Make sure the **Select a project** matches your group number. **(B)**
 
-    c. Change the Configuration name to **MY-lab-# (C)**, where the ## is replaced with your group number. <br> 
+    c. Change the Configuration name to **MY-lab-## (C)**, where the ## is replaced with your group number. <br> 
     For example: MY-lab-00
   
     d. Make sure the **environment (D)** corresponds to your group number.<br>
