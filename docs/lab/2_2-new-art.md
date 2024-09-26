@@ -1,6 +1,6 @@
 # Upload New Artifacts
 
-1. Expand the **Navigation menu (A)** and type in the **watsonx assistant name (B)** and select the **instance (C)**
+1. Expand the **Navigation menu (A)** and filter for **rag-common-services under the resource group (B)**. Expand the **AI / Machine Learning (C)** section of the resource list. Select the **rag-common-watsonx-assistant-instance (D)**. 
 
 ![alt text](../images/2.2.1.png)
 
