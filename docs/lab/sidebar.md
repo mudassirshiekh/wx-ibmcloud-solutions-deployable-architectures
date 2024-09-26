@@ -1,9 +1,10 @@
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
 - 0️⃣ Deploy the Stack 
+    * [0.1 Deploy MY-LAB Stack](0_1-deploy-stack.md)
+    * [0.2 Deployment Process](0_2-deployment-process.md)
 - 1️⃣ Understand Deployed Resources
-    * [1.1 Deploy the Stack](1_1-deploy-stack.md)
-    * [1.2 Deployment Process](1_2-deployment-process.md)
+    * [1.1 View Pre-Deployed Project](1_1-pre-deployed-stack.md)
     * [1.3 Toolchains](1_3-toolchains.md)
     * [1.4 Code Engine](1_4-code-engine.md)
     * [1.5 Launch Sample Application](1_5-launch-app.md)

@@ -10,5 +10,4 @@ https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts
 * **Efficiency:** It reduces the need for extensive background knowledge input during each query, as the system can dynamically pull in relevant information from the documents.
 * **Personalization:** It allows for a personalized experience, as the responses are generated using your own data, reflecting your unique context and requirements.
 
-In summary, uploading your own documents for allows the language model to access and use specific information from those documents, leading to more precise and contextually appropriate responses.
-
+In summary, uploading your own documents allows the language model to access and use specific information from those documents, leading to more precise and contextually appropriate responses.
