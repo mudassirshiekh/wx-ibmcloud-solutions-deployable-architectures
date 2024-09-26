@@ -11,10 +11,10 @@ The (CD) pipeline supports continuous deployment of the application, including e
 1. Expand the **Navigation menu (A)** and select **DevOps (B) > Toolchains (C)**
 ![alt text](../images/1.3.1.png)
 
-2. Make sure you are on the right **Resource Group (A)** and correct **Location (B).** Select the **CI toolchain (C)**
+2. Make sure you are on the right **Resource Group (A)** that corresponds to your group number and select **Dallas for the Location (B).** Select the **rag-lab-##-CI-Toolchain (C)**, where ## is replaced with your group number. 
 ![alt text](../images/1.3.2.png)
 
-3. Select the **CI delivery pipeline (A)**
+3. Select the **ci-pipeline (A)**
 ![alt text](../images/1.3.3.png)
 
 4. Select the **webhook-trigger (A)**

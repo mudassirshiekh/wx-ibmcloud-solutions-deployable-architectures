@@ -5,7 +5,7 @@
     * [0.2 Deployment Process](0_2-deployment-process.md)
 - 1️⃣ Understand Deployed Resources
     * [1.1 View Pre-deployed Project](1_1-pre-deployed-stack.md)
-    * [1.3 Toolchains](1_3-toolchains.md)
+    * [1.2 Toolchains](1_2-toolchains.md)
     * [1.4 Code Engine](1_4-code-engine.md)
     * [1.5 Launch Sample Application](1_5-launch-app.md)
     * [1.6 Gen AI Application Repository](1_6-repo.md)
