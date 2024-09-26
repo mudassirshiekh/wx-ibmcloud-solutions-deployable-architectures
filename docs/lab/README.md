@@ -7,7 +7,7 @@ When building and delivering [generative AI](https://www.ibm.com/topics/generati
 
 [Deployable Architectures](https://www.ibm.com/blog/deployable-architecture-on-ibm-cloud-simplifying-system-deployment/?utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-maximize-gen-ai-on-ibm-cloud-deployable-architectures&cm_sp=ibmdev-_-developer-tutorials-_-ibmcom) (DAs) can address these needs. DAs are pre-configured reference architectures and solutions that help clients leverage IBM Cloud for faster deployment, enhanced security, continuous compliance, and seamless integration. 
 
-This lab provides a demo of the IBM Cloud Deployable Architecture for the Retrieval-Augmented Generation (RAG) Pattern with watsonx, referred to as the RAG DA. You will explore a DA that has already been deployed, allowing you to understand its functionality and benefits. Additionally, to kick off the lab you’ll have the opportunity to deploy your own DA to deepen your knowledge of the process. However, because your DA will take approximately an hour to complete, **<ins>all resources you’ll be working with during the lab are from the original deployment.</ins>**
+This lab provides a demo of the IBM Cloud Deployable Architecture for the Retrieval-Augmented Generation (RAG) Pattern with watsonx, referred to as the RAG DA. You will explore a DA that has already been deployed, allowing you to understand its functionality and benefits. Additionally, to kick off the lab you’ll have the opportunity to deploy your own DA to deepen your knowledge of the process. However, because your DA will take approximately an hour to complete, **<ins>all resources you’ll be working with during the lab are from the pre-deployed stack.</ins>**
 
 
 

@@ -8,7 +8,7 @@ Retrieval augmented generation (RAG) is an AI framework for improving the qualit
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 ![alt text](../images/1.1.1.png)
 
-    **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
+     **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
 
 
 2. Select the **deployed project (A)** that corresponds to your group number. 
@@ -37,7 +37,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     b. Make sure the **Select a project** matches your group number. **(B)**
 
     c. Change the Configuration name to **MY-lab-# (C)**, where the ## is replaced with your group number. <br> 
-        For example: MY-lab-00
+    For example: MY-lab-00
   
     d. Make sure the **environment (D)** corresponds to your group number. For example: MY-lab-00 <br>
     
