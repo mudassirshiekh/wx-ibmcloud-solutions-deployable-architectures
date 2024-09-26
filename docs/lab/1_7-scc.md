@@ -4,7 +4,7 @@ The Security and Compliance Center (SCC) enforces policies through code, deploys
 
 1. Expand the **Navigation menu (A)** and then select **Security and Compliance (B) > Dashboard (C)**
 
-![alt text](../images/1.8.1.png)
+![alt text](../images/1.7.1.png)
 
 ## SCC Scans
 
