@@ -5,7 +5,7 @@ The RAG DA deploys the sample Bank Loan application on IBM Code Engine. Code Eng
 1. Expand the **Navigation menu (A)** and select **Code Engine (B) > Projects (C)**
 ![alt text](../images/1.4.1.png)
 
-2. Select your project
+2. Select the **rag-lab-##-Generative_AI_Sample_App_CI_Project (A)**, where ## is replaced with your group number. 
 ![alt text](../images/1.4.2.png)
 
 3. Review the Overview dashboard 

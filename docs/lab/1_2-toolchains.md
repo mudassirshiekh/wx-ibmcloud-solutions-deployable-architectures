@@ -7,6 +7,8 @@ The Deployable Architecture Stack for the RAG Application includes DevSecOps for
 The (CI) pipeline is used to develop the application, using DevSecOps best practices including evidence collection, artifact signing, and vulnerability checks.
 
 The (CD) pipeline supports continuous deployment of the application, including evidence collection, GitOps flow, change management, and compliance scans. Once deployed on Code Engine, we can launch the application and make it available for end users.
+___
+
 
 1. Expand the **Navigation menu (A)** and select **DevOps (B) > Toolchains (C)**
 ![alt text](../images/1.3.1.png)
