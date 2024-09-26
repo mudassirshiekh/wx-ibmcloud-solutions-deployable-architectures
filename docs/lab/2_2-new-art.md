@@ -2,9 +2,9 @@
 
 1. Expand the **Navigation menu (A)** and filter for **rag-common-services under the resource group (B)**. <br> 
 
-Expand the **AI / Machine Learning (C)** section of the resource list. <br> 
+    Expand the **AI / Machine Learning (C)** section of the resource list. <br> 
 
-Select the **rag-common-watsonx-assistant-instance (D)**. 
+    Select the **rag-common-watsonx-assistant-instance (D)**. 
 
 ![alt text](../images/2.2.1.png)
 
