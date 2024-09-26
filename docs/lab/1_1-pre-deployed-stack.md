@@ -1,6 +1,10 @@
-10. View the already deployed project.
+# View Pre-deployed Project
 
-    a. Find the Security Compliance Center v1 and select **Deployed details (A)** 
+In this section we will be viewing the already deployed stack. We will take a closer look at a couple different layers of the stack to gain a better understanding of what is being created at that layer of the DA. 
+
+1. Find the project that corresponds to your group.
+
+    a. Find the Security Compliance Center v1 and select **Deployed details (A)**. You are able to expand the colum size so you are able to see the full name of the components. FIX THE SCREENSHOT 
     ![alt text](../images/1.1.10-a.png)
 
     b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources. 
@@ -9,9 +13,11 @@
     c. Here is a list of created resources by that specific section of the DA. 
     ![alt text](../images/1.1.10-c.png)
 
-    Repeat the same steps for the **Sample RAG App Configurations** section of the DA. 
+    Repeat the same steps for the **Sample RAG App Configurations** section of the DA. Use the breadcrumbs at the top left to navigate back to the project. 
 
-11. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
+2. Now let's look at the list of resources that have been created by the DA. <br>
+    Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resources deployed by the DA. <br>
+    Notice a number of resources have a starting name of MY-lab, these are the resources that are currently being created by the DA you deployed at the beginning of the lab. 
 ![alt text](<../images/1.1.11-a.png>)
 ![alt text](<../images/1.1.11-b.png>)
 
