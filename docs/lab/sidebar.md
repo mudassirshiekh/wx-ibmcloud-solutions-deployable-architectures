@@ -2,7 +2,7 @@
 - [🏎️ Getting started!](getting-started.md)
 - 0️⃣ Deploy the Stack 
     * [0.1 Deploy MY-lab Stack](0_1-deploy-stack.md)
-- 1️⃣ Understand Pre-deployed Resources (rag-lab-##)
+- 1️⃣ View Pre-deployed Resources (rag-lab-##)
     * [0.2 Deployment Process](0_2-deployment-process.md)
     * [1.1 View Pre-deployed Project](1_1-pre-deployed-stack.md)
     * [1.2 Toolchains](1_2-toolchains.md)
