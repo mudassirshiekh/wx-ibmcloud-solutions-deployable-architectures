@@ -7,7 +7,7 @@ In this section we will be viewing the already deployed stack. We will take a cl
     a. Find the **Security Compliance Center v1** and select **Deployed details (A)**. You are able to expand the colum size so you are able to see the full name of the components. FIX THE SCREENSHOT 
     ![alt text](../images/1.1.10-a.png)
 
-    b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources. 
+    b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources **(B)**. 
     ![alt text](../images/1.1.10-b.png)
 
     c. Here is a list of created resources by that specific section of the DA. 
