@@ -10,7 +10,7 @@ The (CD) pipeline supports continuous deployment of the application, including e
 ___
 
 
-1. Expand the **Navigation menu (A)** and select **DevOps (B) > Toolchains (C)**
+1. Expand the **Navigation menu (A)** and hover over **DevOps (B)** then select **Toolchains (C)**
 ![alt text](../images/1.3.1-n.png)
 
 2. Make sure you are on the right **Resource Group (A)** that corresponds to your group number and select **Dallas for the Location (B).** Select the **rag-lab-##-CI-Toolchain (C)**, where ## is replaced with your group number. 
