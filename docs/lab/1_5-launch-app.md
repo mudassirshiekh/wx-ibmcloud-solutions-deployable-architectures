@@ -6,10 +6,10 @@ Let's see the RAG Pattern Gen AI application in action: Assume you're a prospect
 ___
 
 1. Switch to the **Applications (A)** tab and select **Open URL (B)** to launch the application. 
-![alt text](../images/1.5.1.png)
+![alt text](../images/1.5.1-n.png)
 
 2. Open the virtual agent chat window in the bottom right-hand corner.
-![alt text](../images/1.5.2.png)
+![alt text](../images/1.5.2-n.png)
 
 3. Ask the virtual assistant questions. Here are some example questions to get you started. UPDATE THE QUESTIONS
 * I need help in getting a loan
@@ -20,4 +20,4 @@ ___
 * Why do I need escrow?
 * I want to buy a very expensive property, which loan do you suggest?
 
-![alt text](../images/1.5.3.png)
+![alt text](../images/1.5.3-n.png)
