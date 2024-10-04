@@ -52,7 +52,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     Click **Save (D)**.
 ![alt text](../images/0.1.9-n.png)
 
-10. Once you have saved, select **View stack configuration (A)**. 
+10. Once you have saved, select **View stack configurations (A)**. 
 ![alt text](../images/0.1.10-n.png)
 ___
 
