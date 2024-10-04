@@ -12,7 +12,7 @@
 
 ![alt text](../images/2.2.2-n-da.png)
 
-3. From the **drop menu (A)**, select the **project (B)**
+3. Check that you are on the correct project that corresponds to your group number. 
 
 ![alt text](../images/2.2.3-n-da.png)
 
@@ -20,7 +20,7 @@
 
 ![alt text](../images/2.2.4-n-da.png)
 
-5. Scroll down till you find the **Extension** section, locate **Search** and select **Open (A)**
+5. Scroll down till you find the **Extension (A)** section, locate **Search (B)** and select **Open (C)**
 
 ![alt text](../images/2.2.5-n-da.png)
 
