@@ -36,7 +36,7 @@
 
 ![alt text](../images/2.2.8-n-da.png)
 
-9. Follow this [link](https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs) to where you will be able to download a new set of PDF to upload. <br> 
+9. Follow this [**link**](https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs) to where you will be able to download a new set of PDF to upload. <br> 
 Download the following PDF files: <br>
 * life-instance-faq-1.pdf
 * life-instance-faq-2.pdf
