@@ -4,7 +4,8 @@ In this section we will be viewing the already deployed stack. We will take a cl
 
 ---
 
-1. Find the rag-lab-## that corresponds to your group number **(A)**. For example rag-lab-00
+1. Find the rag-lab-## that corresponds to your group number **(A)**. <br> 
+For example: rag-lab-00
 
     Click the **arrow (B)** to expand the list of components. You are able to expand the colum size so you are able to see the full name of the components. Find the **Essential Security - Security Compliance Center** and select **Deployed details (C)**.  
     ![alt text](../images/1.2.1-a-n-da.png)
