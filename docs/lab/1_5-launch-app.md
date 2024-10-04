@@ -8,16 +8,14 @@ ___
 1. Switch to the **Applications (A)** tab and select **Open URL (B)** to launch the application. 
 ![alt text](../images/1.5.1-n.png)
 
-2. Open the virtual agent chat window in the bottom right-hand corner.
+2. Open the virtual agent chat window in the bottom right-hand corner **(A)**.
 ![alt text](../images/1.5.2-n.png)
 
-3. Ask the virtual assistant questions. Here are some example questions to get you started. UPDATE THE QUESTIONS
-* I need help in getting a loan
-* What types of loans do you offer?
-* What is conventional fixed rate loan?
-* Is fixed rate better than variable rate?
-* How much does a loan cost?
-* Why do I need escrow?
-* I want to buy a very expensive property, which loan do you suggest?
+3. Ask the virtual assistant questions. Here are some example questions to get you started.
+* What is a conventional loan?
+* What is arm?
+* Is arm a good choice?
+* What loan should I get for an expensive property?
+* How much does it cost to get a bank loan?
 
 ![alt text](../images/1.5.3-n.png)
