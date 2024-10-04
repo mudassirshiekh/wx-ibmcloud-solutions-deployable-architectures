@@ -4,7 +4,7 @@
 
     Expand the **AI / Machine Learning (C)** section of the resource list. <br> 
 
-    Select the **rag-common-watsonx-assistant-instance (D)**. 
+    Select the **rag-common-watsonx-assistant-instance (D)**
 
 ![alt text](../images/2.2.1-n-da.png)
 
