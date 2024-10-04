@@ -36,11 +36,24 @@
 
 ![alt text](../images/2.2.8-n-da.png)
 
-9. Select the **Documents tab (A)** and the click **Upload (B)** to upload the new PDFs.  
+9. Follow this link to where you will be able to download a new set of PDF to upload. <br> 
+https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs
+Download the follow PDF files: <br>
+* life-instance-faq-1.pdf
+* life-instance-faq-2.pdf
+* life-instance-faq-3.pdf
+* life-instance-faq-4.pdf
+* life-instance-faq-5.pdf
+
+Select the file you want to download. Click on the **triple dot (A)** and then select **Download (B)**
 
 ![alt text](../images/2.2.9-n-da.png)
 
-![alt text](../images/2.2.10-n-da.png)
+10. Select the **Documents tab (A)** and the click **Upload (B)** to upload the new PDFs.  
+
+![alt text](../images/2.2.10-1-n-da.png)
+
+![alt text](../images/2.2.10-2-n-da.png)
 
 10. Once the new documents have been uploaded navigate back to the chatbot tab and ask the questions again and observe the improvement in answers. 
 * What are the different life insurance policies?
