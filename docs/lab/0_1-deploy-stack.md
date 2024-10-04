@@ -6,36 +6,36 @@ ______
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
-![alt text](../images/0.1.1.png)
+![alt text](../images/0.1.1-n.png)
 
      **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
 
 
-2. Select the **deployed project (A)** that corresponds to your group number.
-![alt text](../images/0.1.2.png)
+2. Select the **deployed project that matches your group number (A)** that corresponds to your group number.
+![alt text](../images/0.1.2-n.png)
 
 3. Switch to the **Configurations tab (A)**
-![alt text](../images/0.1.3.png)
+![alt text](../images/0.1.3-n.png)
 
 4. Click **Create (A)**
-![alt text](../images/0.1.4.png)
+![alt text](../images/0.1.4-n.png)
 
 5. You will be redirected to the Catalog, make sure you are on the **Community registry (A).**
-![alt text](../images/0.1.5.png)
+![alt text](../images/0.1.5-n.png)
 
 6. Find and select the **Retrieval Augmented Generation Pattern** <br>
-![alt text](../images/0.1.6.png)
+![alt text](../images/tile.png)
 
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
-7. Click **Add to Project (A)** <br>
-![alt text](../images/0.1.7.png)
+7. Select the **Code Engine variant (A)** and then click **Add to Project (B)** <br>
+![alt text](../images/0.1.7-n.png)
 
 8. Configure the DA <br>
 
     a. Make sure you are on **Add to existing (A)** <br>
 
-    b. Make sure the **Select a project** matches your group number. **(B)**
+    b. Make sure the **Select a project (B)** matches your group number.
 
     c. Change the Configuration name to **MY-lab-## (C)**, where the ## is replaced with your group number. <br> 
     For example: MY-lab-00
@@ -43,7 +43,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     d. Make sure the **environment (D)** corresponds to your group number.<br>
     
     e. Click **Add (E)** <br>
-![alt text](../images/0.1.8.a-e.png)
+![alt text](../images/0.1.8-n.png)
 
 9. You will now need to update the prefix for your stack. Scroll down until you find the required section and select it. 
     
