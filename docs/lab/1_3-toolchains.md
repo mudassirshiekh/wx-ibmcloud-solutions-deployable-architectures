@@ -11,19 +11,19 @@ ___
 
 
 1. Expand the **Navigation menu (A)** and select **DevOps (B) > Toolchains (C)**
-![alt text](../images/1.3.1.png)
+![alt text](../images/1.3.1-n.png)
 
 2. Make sure you are on the right **Resource Group (A)** that corresponds to your group number and select **Dallas for the Location (B).** Select the **rag-lab-##-CI-Toolchain (C)**, where ## is replaced with your group number. 
-![alt text](../images/1.3.2.png)
+![alt text](../images/1.3.2-n.png)
 
 3. Select the **ci-pipeline (A)**
-![alt text](../images/1.3.3.png)
+![alt text](../images/1.3.3-n.png)
 
 4. Select the **webhook-trigger (A)**
-![alt text](../images/1.3.4.png)
+![alt text](../images/1.3.4-n.png)
 
 5. Select the most recent successful pipeline run
-![alt text](../images/1.3.5.png)
+![alt text](../images/1.3.5-n.png)
 
 6. Review the steps of the CI pipeline. 
-![alt text](../images/1.3.6.png)
+![alt text](../images/1.3.6-n.png)
