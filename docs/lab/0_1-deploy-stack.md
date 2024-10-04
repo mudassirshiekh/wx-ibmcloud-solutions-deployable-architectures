@@ -28,7 +28,7 @@ Retrieval augmented generation (RAG) is an AI framework for improving the qualit
 
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
-7. Select the **Code Engine variant (A)** and then click **Add to Project (B)** <br>
+7. Select the **Basic variant (A)** and then click **Add to Project (B)** <br>
 ![alt text](../images/0.1.7-n.png)
 
 8. Configure the DA <br>
