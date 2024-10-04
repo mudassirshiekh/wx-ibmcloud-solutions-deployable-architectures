@@ -45,14 +45,15 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     e. Click **Add (E)** <br>
 ![alt text](../images/0.1.8-n.png)
 
-9. You will now need to update the prefix for your stack. Scroll down until you find the required section and select it. 
+9. You will now need to update the prefix for your stack. Scroll down until you find the **Configure (A)**. Select the **Required (B)** tab.  
     
-    You will need to update the prefix section (<ins>use all lowercase for the prefix</ins>) to my-lab-##, where ## is replaced with your group number. 
+    You will need to update the **prefix (C)** (<ins>use all lowercase for the prefix</ins>) to my-lab-##, where ## is replaced with your group number. For example: my-lab-00
 
-    Click the save button. You will now click "Validate". Once the popup window appears you can click out of it. Your project will now start to build. 
-    
-    ADD SCREENSHOT
+    Click **Save (D)**.
+![alt text](../images/0.1.9-n.png)
 
+10. Once you have saved, select **View stack configuration (A)**. 
+![alt text](../images/0.1.10-n.png)
 ___
 
 Congratulations, you have just deployed your own DA! For the remainder sections of the lab you will be viewing resources that were deployed by an already deployed stack and is ready for you to explore. This will provide valuable insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
