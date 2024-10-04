@@ -46,7 +46,8 @@ Download the following PDF files: <br>
 * life-instance-faq-4.pdf
 * life-instance-faq-5.pdf
 
-Select the file you want to download. Click on the **triple dot (A)** and then select **Download (B)**. Repeat for all 5 files. 
+Select the file you want to download. Click on the **triple dot (A)** and then select **Download (B)**. 
+Repeat for all 5 files. 
 
 ![alt text](../images/2.2.9-n-da.png)
 
