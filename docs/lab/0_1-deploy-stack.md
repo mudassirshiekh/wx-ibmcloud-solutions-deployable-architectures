@@ -57,7 +57,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
 11. You will be brought back to the projects list. Next to your newly created project **MY-lab-##** (where ## is replaced with your group number), you will need to click **validate (A)**. When you click validate a new window will appear, you can exit out of the window. Your project will now start deploying. 
 
-![alt text](../images/0.1.11-n.png)
+    ![alt text](../images/0.1.11-n.png)
 ___
 
 Congratulations, you have just deployed your own DA! For the remainder sections of the lab you will be viewing resources that were deployed by an already deployed stack and is ready for you to explore. This will provide valuable insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
