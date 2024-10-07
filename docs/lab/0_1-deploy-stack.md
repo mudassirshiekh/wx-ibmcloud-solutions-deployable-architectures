@@ -40,7 +40,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     c. Change the Configuration name to **MY-lab-## (C)**, where the ## is replaced with your group number. <br> 
     For example: MY-lab-00
   
-    d. Make sure the **environment (D)** corresponds to your group number.<br>
+    d. Make sure the **environment (D)** corresponds to your group number.<br> For this lab you will using a predefined environment configuration. 
     
     e. Click **Add (E)** <br>
 ![alt text](../images/0.1.8-n.png)
@@ -54,6 +54,10 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
 10. Once you have saved, select **View stack configurations (A)**. 
 ![alt text](../images/0.1.10-n.png)
+
+11. You will be brought back to the projects list. Next to your newly created project **MY-lab-##** (where ## is replaced with your group number), you will need to click **validate (A)**. When you click validate a new window will appear, you can exit out of the window. Your project will now start deploying. 
+
+![alt text](../images/0.1.11-n.png)
 ___
 
 Congratulations, you have just deployed your own DA! For the remainder sections of the lab you will be viewing resources that were deployed by an already deployed stack and is ready for you to explore. This will provide valuable insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
