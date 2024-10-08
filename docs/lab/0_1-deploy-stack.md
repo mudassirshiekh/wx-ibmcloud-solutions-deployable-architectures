@@ -11,7 +11,7 @@ On the Dashboard of the Cloud account, first make sure you are on the **itz-enab
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 ![alt text](../images/0.1.1-n.png)
 
-     **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices. Each project includes tools to scan for potentially harmful resource changes, ensure compliance, track security, and manage costs. They are designed with a compliance-first and IaC approach to guarantee that projects are secure, governed, and continuously compliant.
+     **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices.
 
 
 2. Select the **deployed project that matches your group number (A)** that corresponds to your group number.
