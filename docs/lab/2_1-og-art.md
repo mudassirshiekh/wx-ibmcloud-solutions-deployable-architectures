@@ -9,7 +9,7 @@ The objective of this section is to enable participants to understand and apply 
 By the end of this section, participants will be able to effectively upload new documents to a RAG-based chatbot and understand the impact of these documents on the chatbot's responses. They will have a clear understanding of how RAG leverages new information to continuously refine and improve chatbot interactions.
 ________
 
-1. Navigate back to the chatbot. Follow steps in 1.6 and 1.7.
+1. Navigate back to the chatbot that is open in a different tab. Follow steps in 1.4 and 1.5 if the tab is not open.
 2. Ask the chatbot the following questions and observe the answers given. 
 * What are the different life insurance policies?
 * When should I buy life insurance? 

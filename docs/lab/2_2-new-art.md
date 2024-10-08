@@ -36,15 +36,15 @@
 
 ![alt text](../images/2.2.8-n-da.png)
 
-9. Follow this [**link**](https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs) to where you will be able to download a new set of PDF to upload. <br> 
+9. Follow this [**link**](https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs) to where you will be able to download a new set of PDFs to upload. <br> 
 
 Download the following PDF files: <br>
 
-* life-instance-faq-1.pdf
-* life-instance-faq-2.pdf
-* life-instance-faq-3.pdf
-* life-instance-faq-4.pdf
-* life-instance-faq-5.pdf
+* life-insurance-faq-1.pdf
+* life-insurance-faq-2.pdf
+* life-insurance-faq-3.pdf
+* life-insurance-faq-4.pdf
+* life-insurance-faq-5.pdf
 
 Select the file you want to download. Click on the **triple dot (A)** and then select **Download (B)**. 
 Repeat for all 5 files. 
