@@ -61,3 +61,6 @@ Repeat for all 5 files.
 * What are the different life insurance policies?
 * When should I buy life insurance? 
 * What does life insurance cover
+
+___
+Congratulations, you just learned how to integrate new documents into the chatbot, enabling the chatbot to utilize these documents for more accurate and contextually relevant responses.
