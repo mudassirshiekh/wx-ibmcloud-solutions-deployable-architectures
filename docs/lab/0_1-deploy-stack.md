@@ -5,6 +5,9 @@ ______
 
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
+On the Dashboard of the Cloud account, first make sure you are on the **itz-enablement-012 account (A)**. When ready, select **Catalog (B)**.
+![alt text](../images/0.0.0.png)
+
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 ![alt text](../images/0.1.1-n.png)
 
