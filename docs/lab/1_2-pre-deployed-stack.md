@@ -26,7 +26,7 @@ For example: rag-lab-00
     Filter for your resource group (for example: rag-lab-00-service-rg) and **rag-common-services** under **Group (B)** to view all resources deployed by the DA.  <br>
 
     You may have resources with a starting name of MY-lab, these are the resources that are currently being created by the DA you deployed at the beginning of the lab. 
-![alt text](../images/1.2.2-n.png)
+![alt text](../images/1.2.2-n-b.png)
 
 
 ## Deployment Architecture Overview
