@@ -43,7 +43,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
     c. Change the Configuration name to **MY-lab-## (C)**, where the ## is replaced with your group number. <br> 
     For example: MY-lab-00
   
-    d. Make sure the **environment (D)** corresponds to your group number.<br> For this lab you will using a predefined environment configuration. 
+    d. Make sure the **environment (D)** corresponds to your group number. For this lab you will using a predefined environment configuration. 
     
     e. Click **Add (E)** <br>
 ![alt text](../images/0.1.8-n.png)
