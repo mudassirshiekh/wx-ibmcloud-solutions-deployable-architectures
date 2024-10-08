@@ -64,3 +64,5 @@ Repeat for all 5 files.
 
 ___
 Congratulations, you just learned how to integrate new documents into the chatbot, enabling the chatbot to utilize these documents for more accurate and contextually relevant responses.
+
+[Conclusion](conclusion.md)
