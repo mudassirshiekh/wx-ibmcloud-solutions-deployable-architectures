@@ -9,7 +9,6 @@ The (CI) pipeline is used to develop the application, using DevSecOps best pract
 The (CD) pipeline supports continuous deployment of the application, including evidence collection, GitOps flow, change management, and compliance scans. Once deployed on Code Engine, we can launch the application and make it available for end users.
 ___
 
-
 1. Expand the **Navigation menu (A)** and hover over **DevOps (B)** then select **Toolchains (C)**
 ![alt text](../images/1.3.1-n.png)
 
@@ -25,5 +24,10 @@ ___
 5. Select the most recent successful pipeline run
 ![alt text](../images/1.3.5-n.png)
 
-6. Review the steps of the CI pipeline. 
+6. Click on **code-compliance-checks (A)**
 ![alt text](../images/1.3.6-n.png)
+
+7. Select **run-stage (A)**
+![alt text](../images/1.3.7-n.png)
+
+8. ADD TEXT REGARDING WHAT THIS SECTION OF THE PIPELINE DOES
