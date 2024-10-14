@@ -30,4 +30,4 @@ ___
 7. Select **run-stage (A)**
 ![alt text](../images/1.3.7-n.png)
 
-8. ADD TEXT REGARDING WHAT THIS SECTION OF THE PIPELINE DOES
+8. The **code-compliance-checks** stage of the CI pipeline is used to detect potential vulnerabilities in the code and ensure that the code adheres to specific standards and guidelines before it is built or deployed. 

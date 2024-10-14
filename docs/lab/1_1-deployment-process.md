@@ -12,5 +12,5 @@ By leveraging automation, the DA enables the rapid deployment of the entire solu
 
 2. **Review Deployed Resources**: After deployment, participants will review the key resources within the account, such as Toolchains, Code Engine, Watsonx Governance, and Security and Compliance Center (SCC), to understand the infrastructure and services in place.
 
-3. **Update Chatbot Knowledge Base**: Participants will update the chatbot’s knowledge base by adding new documents. They will then observe how these updates influence the chatbot’s responses.
+3. **Update Chatbot Knowledge Base**: Participants will update the chatbot's knowledge base by adding new documents. They will then observe how these updates influence the chatbot's responses.
 
