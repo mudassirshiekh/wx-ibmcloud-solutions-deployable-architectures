@@ -14,7 +14,8 @@ On the Dashboard of the Cloud account, first make sure you are on the **itz-enab
      **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices.
 
 
-2. Select the **deployed project that matches your group number (A)** that corresponds to your group number.
+2. Select the **deployed project that matches your group number (A)** that corresponds to your group number (rag-stack-lab-##, where ## is replaced with your group number). <br>
+For example: rag-stack-lab-00
 ![alt text](../images/0.1.2-n.png)
 
 3. Switch to the **Configurations tab (A)**
@@ -50,7 +51,8 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
 9. You will now need to update the prefix for your stack. Scroll down until you find the **Configure (A)**. Select the **Required (B)** tab.  
     
-    You will need to update the **prefix (C)** (<ins>use all lowercase for the prefix</ins>) to my-lab-##, where ## is replaced with your group number. For example: my-lab-00
+    You will need to update the **prefix (C)** (<ins>use all lowercase for the prefix</ins>) to **my-lab-##**, where ## is replaced with your group number. <br>
+    For example: my-lab-00
 
     Click **Save (D)**.
 ![alt text](../images/0.1.9-n.png)
