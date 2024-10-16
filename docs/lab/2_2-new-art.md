@@ -16,25 +16,23 @@
 
 ![alt text](../images/2.2.3-n-da.png)
 
-4. On the left-hand side navigation menu, select **Integration (A)**
+4. Under Assistant architecture, find Conversational search and select **Change (A)**
 
-![alt text](../images/2.2.4-n-da.png)
+![alt text](../images/2.2.4-new.png)
 
-5. Scroll down till you find the **Extension (A)** section, locate **Search (B)** and select **Open (C)**
+5. For the environment select **Draft (A)** and then click **Confirm (B)**
 
-![alt text](../images/2.2.5-n-da.png)
+![alt text](../images/2.2.5-new.png)
 
-6. For the environment select **Draft (A)** and then click **Confirm (B)**
+6. Select **Elasticsearch (A)**
 
-![alt text](../images/2.2.6-n-da.png)
+![alt text](../images/2.2.6-new.png)
 
-7. Select **Elasticsearch (A)**
-
-![alt text](../images/2.2.7-n-da.png)
-
-8. On the **Settings tab (A)** select ***Upload documents to a new index in your Elasticsearch index (B)***. Click **Save (C)**.
+7. On the **Settings tab (A)** select ***Upload documents to a new index in your Elasticsearch index (B)***. Click **Save (C)**.
 
 ![alt text](../images/2.2.8-n-da.png)
+
+-----
 
 9. Follow this [**link**](https://github.com/IBM/gen-ai-rag-watsonx-sample-application/tree/main/artifacts/sample-data/life-insurance-faqs) to where you will be able to download a new set of PDFs to upload. <br> 
 
