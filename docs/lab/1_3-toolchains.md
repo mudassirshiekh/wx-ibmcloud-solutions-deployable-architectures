@@ -10,15 +10,23 @@ The (CD) pipeline supports continuous deployment of the application, including e
 ___
 
 1. Expand the **Navigation menu (A)** and hover over **DevOps (B)** then select **Toolchains (C)**
-![alt text](../images/1.3.1-n.png)
+![alt text](../images/1.3.1-new.png)
 
-2. Make sure you are on the right **Resource Group (A)** that corresponds to your group number and select **Dallas for the Location (B).** Select the **rag-lab-##-CI-Toolchain (C)**, where ## is replaced with your group number. 
+2. Make sure you are viewing the correct toolchains. <br>
+- **Resource Group: rag-lab-##-service-rg (A)** (where ## is replaced with your group number.) <br>
+    -  For example: rag-lab-00-service-rg
+
+- **Location: Dallas (B)**
+
+-  Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number). <br>
+    - For example: rag-lab-00-rag-sample-app-CI-Toolchain
+
 ![alt text](../images/1.3.2-n.png)
 
-3. Select the **ci-pipeline (A)**
+3. Under Delivery pipelines select **ci-pipeline (A)**
 ![alt text](../images/1.3.3-n.png)
 
-4. Select the **webhook-trigger (A)**
+4. Select the **rag-webhook-trigger (A)**
 ![alt text](../images/1.3.4-n.png)
 
 5. Select the most recent successful pipeline run
