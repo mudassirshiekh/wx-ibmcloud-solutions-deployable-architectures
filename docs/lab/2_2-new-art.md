@@ -16,7 +16,7 @@
 
 ![alt text](../images/2.2.3-n-da.png)
 
-4. Under Assistant architecture, find Conversational search and select **Change (A)**
+4. Under **Assistant architecture**, find **Conversational search** and select **Change (A)**
 
 ![alt text](../images/2.2.4-new.png)
 
