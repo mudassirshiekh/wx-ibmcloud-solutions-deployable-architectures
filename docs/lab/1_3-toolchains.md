@@ -21,7 +21,7 @@ ___
 -  Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number). <br>
     - For example: rag-lab-00-rag-sample-app-CI-Toolchain
 
-![alt text](../images/1.3.2-n.png)
+    ![alt text](../images/1.3.2-n.png)
 
 3. Under Delivery pipelines select **ci-pipeline (A)**
 ![alt text](../images/1.3.3-n.png)
