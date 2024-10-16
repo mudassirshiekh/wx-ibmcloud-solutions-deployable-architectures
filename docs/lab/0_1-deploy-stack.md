@@ -14,7 +14,7 @@ On the Dashboard of the Cloud account, first make sure you are on the **itz-enab
      **Projects** are a named collection of configurations used to manage resources and deployments across accounts, employing an Infrastructure as Code (IaC) approach. Projects allow teams to configure, deploy, and monitor deployments using DevOps best practices.
 
 
-2. Select the **deployed project that matches your group number (A)** that corresponds to your group number (rag-stack-lab-##, where ## is replaced with your group number). <br>
+2. Select the **deployed project(A)** that corresponds to your group number (rag-stack-lab-##, where ## is replaced with your group number). <br>
 For example: rag-stack-lab-00
 ![alt text](../images/0.1.2-n.png)
 
