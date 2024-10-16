@@ -27,7 +27,7 @@ For example: rag-lab-00
 2. Now let's look at the list of resources that have been created by the DA. <br>
     
     Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list (B)** from the Navigation menu. <br>
-![alt text](<../images/1.2.2-a-n.png>)
+![alt text](<../images/1.2.2-a-new.png>)
 
     Filter for your resource group (for example: rag-lab-00-service-rg) and **rag-common-services** under **Group (A)** to view all resources deployed by the DA.  <br>
 
