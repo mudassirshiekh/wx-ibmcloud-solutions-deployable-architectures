@@ -1,6 +1,6 @@
 # Upload New Artifacts
 
-1. Expand the **Navigation menu (A)** and filter for **rag-common-services under the resource group (B)**. <br> 
+1. Expand the **Navigation menu (A)** and filter for **rag-common-services under Group (B)**. <br> 
 
     Expand the **AI / Machine Learning (C)** section of the resource list. <br> 
 
