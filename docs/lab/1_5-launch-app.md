@@ -5,7 +5,7 @@ We have a Generative AI application running on IBM Cloud that was developed usin
 Let's see the RAG Pattern Gen AI application in action: Assume you're a prospective consumer searching for a loan. You visit a bank's website and begin asking queries to the virtual agent. Using the bank's own data and the generative AI foundation model, the virtual agent generates solutions based on the inquiry, whether it's a general topic or trying to identify a specific loan product.
 ___
 
-1. Switch to the **Applications (A)** tab and select **Open URL (B)** to launch the application. Leave this new tab open, we will be revisiting the chatbot throughout the remainder of the lab. 
+1. Switch to the **Applications (A)** tab and select **Open URL (B)** to launch the application. Leave this new tab open, we will be revisiting the chatbot,
 ![alt text](../images/1.5.1-n.png)
 
 2. Open the virtual agent chat window in the bottom right-hand corner **(A)**.
