@@ -1,3 +1,5 @@
+- [Lab Sign in](https://ibm.biz/rag-lab-2024)
+---
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
 - 0️⃣ Deploy the Stack 
@@ -15,7 +17,3 @@
     * [2.1 Chat with Original Artifacts](2_1-og-art.md)
     * [2.2 Upload New Artifacts](2_2-new-art.md) 
 - [🏁 Conclusion and Next Steps](conclusion.md)
-- **Learn more**
-- [Lab Sign in](https://ibm.biz/txc-XXX-invite)
-- [Console](https://cloud.ibm.com/)
-- [Documentation](https://cloud.ibm.com/docs/)
