@@ -47,4 +47,33 @@
 * What does life insurance cover
 
 ___
+
 Congratulations, you just learned how to integrate new documents into the chatbot, enabling the chatbot to utilize these documents for more accurate and contextually relevant responses.
+___
+
+# Optional 
+
+If time permits take a moment to review the resources deployed by the DA you created at the beginning of the lab. All resources with the prefix MY-lab were created from your DA. 
+
+1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
+
+    ![alt text](../images/0.1.1-n.png)
+
+2. Select the **deployed project(A)** that corresponds to your group number (rag-stack-lab-##, where ## is replaced with your group number). <br>
+For example: rag-stack-lab-00
+
+    ![alt text](../images/0.1.2-n.png)
+
+3. Expand MY-lab-## and observe that it has successfully deployed.
+
+    ![alt text](<../images/2.2.11.png>)
+
+4. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list (B)** from the Navigation menu. <br>
+    
+    ![alt text](<../images/1.2.2-a-new.png>)
+
+Filter for your resource group (for example: rag-lab-00-service-rg) and **rag-common-services** under **Group (A)** to view all resources deployed by the DA.  <br>
+
+You may have resources with a starting name of MY-lab, these are the resources that are currently being created by the DA you deployed at the beginning of the lab. 
+    
+![alt text](<../images/2.2.10.png>)
