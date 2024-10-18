@@ -9,19 +9,13 @@ The (CI) pipeline is used to develop the application, using DevSecOps best pract
 The (CD) pipeline supports continuous deployment of the application, including evidence collection, GitOps flow, change management, and compliance scans. Once deployed on Code Engine, we can launch the application and make it available for end users.
 ___
 
-1. Expand the **Navigation menu (A)** and hover over **DevOps (B)** then select **Toolchains (C)**
-![alt text](../images/1.3.1-new.png)
+1. Expand the **Navigation menu (A)** and hover over **Platform Automation (B)** then select **Toolchains (C)**
+![alt text](../images/1.3.1-newest.png)
 
-2. Make sure you are viewing the correct toolchains. <br>
-- **Resource Group: rag-lab-##-service-rg (A)** (where ## is replaced with your group number.) <br>
-    -  For example: rag-lab-00-service-rg
-
-- **Location: Dallas (B)**
-
--  Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number). <br>
+2. Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number). <br>
     - For example: rag-lab-00-rag-sample-app-CI-Toolchain
 
-![alt text](../images/1.3.2-n.png)
+![alt text](../images/1.3.2-newest.png)
 
 3. Under Delivery pipelines select **ci-pipeline (A)**
 ![alt text](../images/1.3.3-n.png)
